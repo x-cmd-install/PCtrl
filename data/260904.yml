@@ -1,11 +1,13 @@
 about:
-  description: Rust based Linux Process Manager with both a GUI and a TUI
+  description:
+  |
+    Rust based Linux Process Manager with both a GUI and a TUI
   license: NOASSERTION
   homepage: 
   head: aa85cc2
   archived: false
   latestVersion: v1.0.0
-  collectedAt: 2026-09-04T04:19:59Z
+  collectedAt: 2026-09-04T19:24:34Z
 timeline:
   created: 2023-05-09
   lastCommit: 2023-05-15
@@ -24,10 +26,18 @@ language:
   Shell: 3598
   HTML: 363
   CSS: 338
-totalLine: 114906
+totalBytes: 114906
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+total:
+  release: 1
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 2
+  openIssue: 6
+  commit: 125
+---
+---
+
