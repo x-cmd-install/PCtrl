@@ -4,7 +4,7 @@
 
 Rust based Linux Process Manager with both a GUI and a TUI
 
-![PCtrl](https://repo.x-cmd.io/PCtrl.svg)
+![PCtrl](https://repo.x-cmd.io/PCtrl.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install PCtrl
 - **最新版本**: `v1.0.0` (2023-05-10)
 - **最近提交**: 2023-05-15
 - **Release 含资产**: 2 个
-- **发布时间**: 2023-05-10T17:50:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pctrl_1.0.0_amd64.AppImage](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.AppImage) | 73.1 MiB | `other` |
+| [pctrl_1.0.0_amd64.deb](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
 
 ## 流行度
 
@@ -61,4 +67,4 @@ PCtrl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:39:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:06:55Z._

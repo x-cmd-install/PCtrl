@@ -22,7 +22,13 @@ x install PCtrl
 - **Latest**: `v1.0.0` (2023-05-10)
 - **Last commit**: 2023-05-15
 - **Assets in release**: 2
-- **Published**: 2023-05-10T17:50:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pctrl_1.0.0_amd64.AppImage](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.AppImage) | 73.1 MiB | `other` |
+| [pctrl_1.0.0_amd64.deb](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
 
 ## Popularity
 
@@ -57,8 +63,8 @@ Total: **5,660** lines of code across **19** files in the top 5 languages.
 Install metadata for PCtrl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `PCtrl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/PCtrl.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/PCtrl.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:39:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:06:55Z._
