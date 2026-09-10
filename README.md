@@ -12,6 +12,18 @@ Rust based Linux Process Manager with both a GUI and a TUI
 x install PCtrl
 ```
 
+## Code insight
+
+Total: **5,660** lines of code across **19** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 3,056 | 0 | 0 | 3 |
+| Rust | 1,504 | 47 | 158 | 7 |
+| Jsx | 970 | 38 | 106 | 7 |
+| Sh | 52 | 10 | 18 | 1 |
+| Toml | 28 | 3 | 4 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/MohamedSherifNoureldin/PCtrl>
@@ -22,13 +34,6 @@ x install PCtrl
 - **Latest**: `v1.0.0` (2023-05-10)
 - **Last commit**: 2023-05-15
 - **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [pctrl_1.0.0_amd64.AppImage](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.AppImage) | 73.1 MiB | `other` |
-| [pctrl_1.0.0_amd64.deb](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
 
 ## Popularity
 
@@ -43,20 +48,18 @@ x install PCtrl
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
 
-## Code size
+## Release assets
 
-Total: **5,660** lines of code across **19** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 3,056 | 0 | 0 | 3 |
-| Rust | 1,504 | 47 | 158 | 7 |
-| Jsx | 970 | 38 | 106 | 7 |
-| Sh | 52 | 10 | 18 | 1 |
-| Toml | 28 | 3 | 4 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pctrl_1.0.0_amd64.AppImage](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.AppImage) | 73.1 MiB | `other` |
+| [pctrl_1.0.0_amd64.deb](https://github.com/MohamedSherifNoureldin/PCtrl/releases/download/v1.0.0/pctrl_1.0.0_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
 
 ## Improve this data
 
@@ -67,4 +70,4 @@ Install metadata for PCtrl lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:06:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:58:24Z._
